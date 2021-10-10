@@ -2,11 +2,10 @@
 
 ## Getting Started
 
-
 Clone repo
 
 ```bash
-gh clone...
+gh repo clone agentgill/excel-file-upload-heroku
 ```
 
 Install dependencies
@@ -32,6 +31,7 @@ heroku create
 ```
 
 Deploy to Heroku
-```bash
 
+```bash
+git push heroku main
 ```
